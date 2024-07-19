@@ -4,7 +4,7 @@ This is a project to create a CD changer "emulator" for a Citroen XM using the o
 The Philips headunit can be coupled with an RC026 CD changer which is often mounted in the boot or under the front passenger seat.
 As CD's are not as convenient as modern solutions like a smartphone with Bluetooth, an adapter would be fitting to allow for bluetooth playback over the original CD changer line.
 
-The CD Changer communicates with the headunit through D2B (Domestic Digital Bus). On this bus, CD changer presence and adress are determined, and various code is sent across for remote control. This includes:
+The CD Changer communicates with the headunit through D2B (Domestic Digital Bus). On this bus, CD changer presence and address are determined, and various code is sent across for remote control. This includes:
 - Changing current track, next or previous
 - Changing the CD, next or previous
 - CD changer sending data which CD bay is currently playing (CD 1 - 6)
