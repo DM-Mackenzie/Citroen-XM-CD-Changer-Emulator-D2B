@@ -33,6 +33,5 @@ Planned hardware:
 - OKI MSM6307 IC
 - Fully automotive compliant power supply to avoid as much noise as possible
 - Very short twisted pair lead to the radio connector, using a plug and play ISO 10487 type D connector
-- Bluetooth IC with support for A2DP and AVRCP 1.6
 
 For this a custom PCB will be created. 
