@@ -1,3 +1,4 @@
+# Proposed components for PCB design
 Only main components will be noted here; complimentary components such as resistors and capacitors should be taken from the datasheet.
 
 **IC's:**
