@@ -8,8 +8,11 @@ We want to match the existing line channel properties to ensure performance will
 Various original specs (from CD changer datasheet):
 
 Distortion _< 0.01% (at 1kHz)
+
 Data - Track mute _> 93dB (A-weighted)
+
 DAC Resolution: 1 bit per channel
+
 Crosstalk L<>R _< -75dB
 S/N Ratio: 96dB
 Output voltage: 700mV
