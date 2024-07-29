@@ -6,4 +6,5 @@ Prior to creating a final PCB (which should be a fun exercise) a development boa
 3. Block connector for power
 4. Ready made PCM5102A DAC board as a piggy back
 5. PCB mount components should be through hole for easy soldering
+6. Components used should match the final PCB components as close as possible.
 
