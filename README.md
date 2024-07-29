@@ -5,6 +5,9 @@ The Philips headunit can be coupled with an RC026 CD changer which is often moun
 As CD's are not as convenient as modern solutions like a smartphone with Bluetooth, an adapter would be fitting to allow for bluetooth playback over the original CD changer line.
 Philips headunits were commonly found in the 90's in several different types of cars. Although CD changer emulators have been designed for a lot of different headunits used in the past 30 years, I was unable to find any information for one that would suit this headunit; I suspect it has to do with the D2B communication protocol, of which I could not find a lot of information regarding DIY projects.
 
+**Why would you want this? **
+Well, this is mainly because I want to keep the esthetic of the original head-unit. It fits the car perfectly. I have had several different headunits which had bluetooth and even carplay, but this would also mean I would lose some original functionality; showing RDS data on the integrated screen in the dashboard.
+
 The CD Changer communicates with the headunit through D2B (Domestic Digital Bus). On this bus, CD changer presence and address are determined, and various code is sent across for remote control. This includes:
 - Changing current track, next or previous
 - Changing the CD, next or previous
