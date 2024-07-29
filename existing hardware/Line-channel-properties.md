@@ -12,15 +12,3 @@ Original DAC: PCM1710U, with NJM2100 buffer
 - Supports 16 or 20 bits input data
 - Typical max output voltage swing: +-2.2V, (4.4V peak to peak)
 
-Distortion _< 0.01% (at 1kHz)
-
-Data - Track mute _> 93dB (A-weighted)
-
-DAC Resolution: 1 bit per channel
-
-Crosstalk L<>R _< -75dB
-
-S/N Ratio: 96dB
-
-Output voltage: 700mV
-
