@@ -4,6 +4,7 @@ We want to match the existing line channel properties to ensure performance will
 1. Impedance of existing CD changer DAC (Ohm):   _Unknown, needs to be checked_
 2. Sampling rate (KHz):  _Unknown, needs to be checked. Probably 44100 or 48000 Hz_
 3. Peak to peak voltage:  _Unknown, needs to be checked._
+4. Bitrate:  _Unknown, needs to be checked_
 
 Various original specs (from CD changer datasheet):
 
