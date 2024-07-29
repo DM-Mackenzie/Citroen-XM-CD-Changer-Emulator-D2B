@@ -1,4 +1,4 @@
-**CD Changer Connector**
+# CD Changer Connector
 
 The headunit uses a CD changer cable with a connector as per the ISO 10487 standards, with a 10 pin connector. Although it's called a "C" connector, officially per the standard this is a "D" type connector, which is available for purchase. 
 ![image](https://github.com/user-attachments/assets/83dc67b8-32bc-4f44-a404-e6bba0df6b6e)
