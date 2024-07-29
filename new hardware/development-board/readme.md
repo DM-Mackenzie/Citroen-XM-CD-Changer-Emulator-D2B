@@ -1,4 +1,4 @@
-**Development Board**
+# Development Board
 
 Prior to creating a final PCB (which should be a fun exercise) a development board will be created. The main goal is an easy to assemble board with easy connections. The following design principles should apply:
 1. Easy to just plug in components, such as an ESP32 dev board as a piggy back on pin headers
