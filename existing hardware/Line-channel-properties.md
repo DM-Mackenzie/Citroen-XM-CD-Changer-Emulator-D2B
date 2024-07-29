@@ -15,4 +15,4 @@ Original DAC: PCM1710U, with NJM2100 buffer
 The original DAC and OP-AMP buffer combo will be replaced by a modern DAC with integrated buffer -> PCM5102A.
 
 Of course, it may be possible or not to send a higher quality signal with different properties (for example, 32bit audio with 96 kHz signal with higher peak to peak voltage) but that is not the aim of this project.
-By matching the original specifications the audio quality will be of acceptable quality as compared to the original, as this project uses a modern DAC with much better audio quality and properties. The head-unit amplifier will be the bottleneck in any case.
+By matching the original specifications the audio quality will be of acceptable quality as compared to the original, as this project uses a modern DAC with much better audio quality and properties. The head-unit amplifier will be the bottleneck in any case. By matching the original line level properties, we will also ensure no unwanted distortion is introduced or components are damaged in case of a peak to peak voltage that is simply too high to handle.
