@@ -15,7 +15,7 @@ Project goals are as follows:
 - Incorporate a D2B transceiver; in this case, this will be the old but still available OKI MSM6307
 - Write library for MSM6307
 - Receiving commands on D2B bus
-- Writing commands on D2B bus (name of song to headunit, which pushes it to the car's infoscreen through VAN)
+- Writing commands on D2B bus (name of song to headunit, which pushes it to the car's infoscreen through VAN); this is a "maybe", as currently it displays "CD 1", which may be a pre-determined message, and we might not have the freedom to send our own custom strings of information.
 - Have a webinterface to see current bluetooth device and track info, and change various options, such as language, whether or not to send track info.
 - Unit must be plug and play. No additional wiring is needed as it can use the original CD changer connector, which provides us with everything we need.
 
