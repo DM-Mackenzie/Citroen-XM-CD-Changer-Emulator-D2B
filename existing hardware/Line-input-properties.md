@@ -1,4 +1,4 @@
-**Line Input Channel**
+# Line Input Properties
 
 We want to match the existing line channel properties to ensure performance will not be compromised. the following needs to be known and applied:
 1. Impedance of existing CD changer DAC (Ohm):   _Unknown, needs to be checked_
