@@ -1,4 +1,4 @@
-# Citroen-XM-CD-Changer-Emulator-D2B
+# Philips-CD-Changer-Emulator-D2B
 
 This is a project to create a CD changer "emulator" for a Citroen XM using the original Philips head-unit.
 The Philips headunit can be coupled with an RC026 CD changer which is often mounted in the boot or under the front passenger seat.
