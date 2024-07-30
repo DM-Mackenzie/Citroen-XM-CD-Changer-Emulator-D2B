@@ -16,7 +16,7 @@ The CD Changer communicates with the headunit through D2B (Domestic Digital Bus)
 
 Project goals are as follows:
 - Create a bluetooth interface with A2DP and AVRCP. (Hands Free is optional, but not being worked on now)
-- Incorporate a D2B transceiver; in this case, this will be the old but still available OKI MSM6307
+- Incorporate a D2B transceiver; in this case, this will be the old but still available OKI MSM6307. There are other D2B options (OCC8001-02 IC from Conan) but documentation is very limited in these. The MSM6307 datasheet is more extensive and usable. 
 - Write library for MSM6307
 - Receiving commands on D2B bus
 - Writing commands on D2B bus (name of song to headunit, which pushes it to the car's infoscreen through VAN); this is a "maybe", as currently it displays "CD 1", which may be a pre-determined message, and we might not have the freedom to send our own custom strings of information.
