@@ -46,10 +46,16 @@ For this a custom PCB will be created.
 
 **Creative Commons Attribution-NonCommercial 4.0 International Public License**
 
-By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
+> [!IMPORTANT]
+> By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
+
 
 ![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
 
 ## Contact
+> [!NOTE]
+> For commercial use or inquiries, contact details will be published soon.
 
-For commercial use or inquiries, contact details will be published soon.
+> [!CAUTION]
+> This repository is for educational purposes and project management. You are responsible for the use and application of all info in this repository, and the author of this repository is not responsible for any damage or accidents that might occur as a result of using it. Use at your own risk. 
+
