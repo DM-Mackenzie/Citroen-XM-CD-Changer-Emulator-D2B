@@ -58,5 +58,5 @@ For this a custom PCB will be created.
 
 ## Important
 > [!CAUTION]
-> This repository is for educational purposes and project management. You are responsible for the use and application of all info in this repository, and the author of this repository is not responsible for any damage or accidents that might occur as a result of using it. Use at your own risk. All brandnames belong to their respective owners. Any mention of these brand names is purely for clarification and will not be used or misused in a product. 
+> This repository is for educational purposes and project management. You are responsible for the use and application of all info in this repository, and the author of this repository is not responsible for any damage or accidents that might occur as a result of using it. Use at your own risk. All brandnames belong to their respective owners. Any mention of these brand names is purely for clarification and recognition of the project goals. 
 
