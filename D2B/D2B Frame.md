@@ -1,4 +1,4 @@
-**D2B frame explained**
+# D2B frame explained
 A D2B (Domestic Digital Bus) frame is a structured data packet used for communication between devices on the D2B bus. The frame ensures reliable data transmission by encapsulating data and control information in a specific format. Here’s a breakdown of the components of a D2B frame:
 
 ![image](https://github.com/user-attachments/assets/7b20704e-6605-4a23-8d67-e0cc11ed4354)
