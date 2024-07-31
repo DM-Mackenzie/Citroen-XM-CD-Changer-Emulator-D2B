@@ -41,6 +41,15 @@ Planned hardware:
 
 For this a custom PCB will be created. 
 
+## Documentation
+This project is based on multiple sources of documentation. These include and are not limited to:
+1. Original Philips service manual for the 22DC594-35X SM headunit
+2. Original Philips service manual for the 22RC026 CD changer
+3. OKI MSM6307 Datasheet
+4. IEC 61030 standard
+5. Various projects online involving A2DP sinks, the use of ESP32 etc.
+
+Due to copyright, I cannot share this information on this Github. However, the service manuals are shared online, as is the MSM6307 datasheet. The IEC standard can be purchased through various parties.
 
 ## License
 
