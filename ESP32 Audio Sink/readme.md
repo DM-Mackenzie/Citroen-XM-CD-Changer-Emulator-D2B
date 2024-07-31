@@ -11,5 +11,5 @@ As it stands now, the following is working:
 
 Currently work needs to be done on the following items:
 1. Setting pre-defined and user changable pincode for bluetooth connection for security
-2. Setting Bluetooth Class of Device to let connected devices know which type of device it is. The adapter will be advertised as a car stereo.
-3. Create variables for user defined settings (pincode, name)
+2. Setting Bluetooth Class of Device to let connected devices know which type of device it is. The adapter will be advertised as a car stereo
+3. Create variables for user defined settings (pincode, name) so the end-user can change these settings into their own desired names and codes
