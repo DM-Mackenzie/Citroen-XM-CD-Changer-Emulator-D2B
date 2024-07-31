@@ -56,6 +56,7 @@ For this a custom PCB will be created.
 > [!NOTE]
 > For commercial use or inquiries, contact details will be published soon.
 
+## Important
 > [!CAUTION]
 > This repository is for educational purposes and project management. You are responsible for the use and application of all info in this repository, and the author of this repository is not responsible for any damage or accidents that might occur as a result of using it. Use at your own risk. 
 
