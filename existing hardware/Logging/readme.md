@@ -28,4 +28,4 @@ The test-setup is as follows:
 The dataline has a frequency of 6MHz, which should work with our cheap analyzer. 
 
 ## Analyzing the line-input
-Currently the specifications for the dataline are unknown. Althought the headunit can probably handle a multitude of different line properties, ideally I'd match all properties as close as possible. I do not have an oscilloscope yet
+Currently the specifications for the dataline are unknown. Althought the headunit can probably handle a multitude of different line properties, ideally I'd match all properties as close as possible. I do not have an oscilloscope yet, so this will be low in priority for now. 
