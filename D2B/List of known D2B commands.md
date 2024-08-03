@@ -1,4 +1,4 @@
-# Known D2B Commands
+# D2B commands
 
 D2B commands are predetermined and described in the IEC 61030 standard Annex A. These consist of the following properties:
 
