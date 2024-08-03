@@ -1,4 +1,9 @@
 # Analyzing using logic analyzer
+To log the existing lines, the following is used:
+1. Logic analyzer (Chinesium brand)
+2. Pulseview as software to use with it (if this doesn't work reliably, might use Saleae)
+
+## Analyzing the D2B line
 
 We have a theoretical confirmation of the protocol used in this project (D2B) between the headunit and the CD-changer, and how this functions. Prior to testing this out, a D2B library was created based on the datasheet for the MSM6307 IC. However, we are missing some variables required for operation:
 1. Master address (headunit)
@@ -20,8 +25,7 @@ The test-setup is as follows:
 4. 12V PSU from an old computer, using a breakout board to provide power
 5. CD changer
 
-To log the line, the following is used:
-1. Logic analyzer (Chinesium brand)
-2. Pulseview as software to use with it (if this doesn't work reliably, might use Saleae)
-
 The dataline has a frequency of 6MHz, which should work with our cheap analyzer. 
+
+## Analyzing the line-input
+Currently the specifications for the dataline are unknown. Althought the headunit can probably handle a multitude of different line properties, ideally I'd match all properties as close as possible. I do not have an oscilloscope yet
